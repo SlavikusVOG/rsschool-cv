@@ -2,5 +2,5 @@
 name: CV
 description: My curriculum vitae
 url: https://slavikusvog.github.io/rsschool-cv/
-markdown: kramdown
+markdown: GFM
 highlighter: rouge
