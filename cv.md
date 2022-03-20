@@ -2,13 +2,24 @@
 
 # Contacts
 ## E-mail: _slavaolish@gmail.com_
-## github: **SlavikusVOG**
-<!--TODO: write discord ref-->
+## Github: [**SlavikusVOG**](https://github.com/SlavikusVOG)
 
 # Self brief
-<!--TODO: write something about me-->
-# Skils
-<!--TODO: write something about my skills-->
+### I am 28 years old. I was born and I live in Minsk. My goal is to improve knowledge in frontend development and eventually become a full-stack frontend developer. I have 5 years of experience in a product based company. I worded as technical support, analyst, administrator and others.
+### Personal Qualities:
+- Perseverance.
+- Fast learner, no bad habits.
+- Enjoy learning new things and solving complex problems.
+- Leading a healthy lifestyle.   
+# Skills
+| Technology | Years of experience | Level (max - 10) |
+| :----------| :------------------:| :---------------:|
+| Git        |          2          |         6        |
+| Docker     |          1          |         6        |
+| Git        |          2          |         6        |
+| Javascript |          2          |         7        |
+| CSS        |          2          |         7        |
+| HTML       |          2          |         7        |
 
 # Code example from codewars
 ```
@@ -21,8 +32,12 @@ function tankvol(h, d, vt) {
 }
 ```
 # Work experience
-<!--TODO: write something about my work experience-->
+## **Technician for automation ERP systems**: *2015.08 - 2017.08*
+## **Ingeneer for automation ERP systems**: *2017.08 - 2019.12*
+## **System analyst**: *2020.01 - 2020.12*
 # Education
-<!--TODO: write education-->
+## BSUIR 2017
+### Faculty of Engineering and Economics
+### Information Systems and Technologies in Economics
 # English level
 ## **B1-B2**
