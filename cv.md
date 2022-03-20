@@ -1,7 +1,7 @@
 # Viacheslav Olishevko
 
 ## Contacts
-### E-mail: _slavaolish@gmail.com
+### E-mail: _slavaolish@gmail.com_
 ### Github: [**SlavikusVOG**](https://github.com/SlavikusVOG)
 
 ## Self brief
