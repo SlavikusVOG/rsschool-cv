@@ -1,0 +1,6 @@
+#Jekyll configuration
+name: CV
+description: My curriculum vitae
+url: https://slavikusvog.github.io/rsschool-cv/
+markdown: GFM
+highlighter: rouge
