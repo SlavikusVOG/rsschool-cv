@@ -5,29 +5,111 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
     <header class="title">Viacheslav Olishevko</header>
+    <hr>
     <section class="contacts">
         <div class="section-title">Contacts</div>
+        <ul class="contacts-list">
+            <li class="contact-item">
+                <a href="mailto: slavaolish@gmail.com"><img src="./accets/images/icons8-gmail-48.png" width="24" height="24" target="_blank"> <span>E-mail</span></a>
+            </li>
+            <li>
+                <a href="https://discordapp.com/users/325330070724149249"><img src="./accets/images/icons8-discord-30.png" width="24" height="24" target="_blank"> <span>Discord</span></a>
+            </li>
+            <li>
+                <a href="https://github.com/SlavikusVOG"><img src="./accets/images/icons8-github-30.png" width="24" height="24" target="_blank"> <span>Github</span></a>
+            </li>
+        </ul>
     </section>
+    <hr>
     <section class="self-brief">
         <div class="section-title">Self brief</div>
+        <p>I am 28 years old. I was born and I live in Minsk. My goal is to improve knowledge in frontend development and eventually become a full-stack frontend developer. I have 5 years of experience in a product based company. I worded as technical support, analyst, administrator and others.</p>
+        <p>Personal qualities:</p>
+        <ul>
+            <li><p>Perseverance</p></li>
+            <li><p>Fast learner, no bad habits.</p></li>
+            <li><p>Enjoy learning new things and solving complex problems.</p></li>
+            <li><p>Leading a healthy lifestyle.</p></li>
+        </ul>
     </section>
+    <hr>
     <section class="skills">
         <div class="section-title">Skills</div>
+        <table>
+            <thead>
+                <tr>
+                    <th>Technology</th>
+                    <th>Years of experience</th>
+                    <th>Level (max - 10)</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Git</td>
+                    <td>2</td>
+                    <td>6</td>
+                </tr>
+                <tr>
+                    <td>Docker</td>
+                    <td>1</td>
+                    <td>6</td>
+                </tr>
+                <tr>
+                    <td>Javascript</td>
+                    <td>2</td>
+                    <td>7</td>
+                </tr>
+                <tr>
+                    <td>CSS</td>
+                    <td>2</td>
+                    <td>7</td>
+                </tr>
+                <tr>
+                    <td>HTML</td>
+                    <td>2</td>
+                    <td>7</td>
+                </tr>
+            </tbody>
+        </table>
     </section>
+    <hr>
     <section class="code-example">
         <div class="section-title">Code example</div>
+        <pre>
+            <code>
+                function tankvol(h, d, vt) {
+                  const radius = d / 2;
+                  const height = vt / (Math.PI * Math.pow(radius, 2));
+                  const chord = Math.sqrt((radius - h / 2) * 8 * h);
+                  const alfa = 2 * Math.acos(1 - (2 * h / d));
+                  return Math.floor(Math.pow(radius, 2) * (alfa - Math.sin(alfa)) / 2 * height);
+                }
+            </code>
+        </pre>
     </section>
+    <hr>
     <section class="work-experience">
         <div class="section-title">Work experience</div>
+        <ul>
+            <li><p>Technician for automation ERP systems: 2015.08-2017.08.</p></li>
+            <li><p>Ingeneer for automation ERP systems: 2017.08 - 2019.12</p></li>
+            <li><p>System analyst: 2020.01 - 2020.12</p></li>
+        </ul>
     </section>
+    <hr>
     <section class="education">
         <div class="section-title">Education</div>
+        <p>BSUIR 2017</p>
+        <p>English intermediate / upper-intermediate course</p>
     </section>
+    <hr>
     <section class="english">
         <div class="section-title">English</div>
+        <p>B1/B2</p>
     </section>
 </body>
 </html>
