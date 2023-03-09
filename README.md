@@ -1,1 +1,1 @@
-# [rsschool-cv](ttps://SlavikusVOG.github.io/rsschool-cv/cv)
+# [rsschool-cv](https://SlavikusVOG.github.io/rsschool-cv/cv)
