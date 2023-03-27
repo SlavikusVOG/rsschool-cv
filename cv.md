@@ -40,7 +40,13 @@ tytle: Viacheslav Olishevko CV
 
 ## Code example
 
-// TODO: write some example from codewars
+    function duplicateEncode(word){
+        const wordArray = word.toLowerCase().split("");
+        const result = wordArray.map((character, index, array) => {
+            return array.filter(elem => elem === character).length > 1 ? ")" : "(";
+        });
+        return result.join("");
+    }
 
 ***
 
