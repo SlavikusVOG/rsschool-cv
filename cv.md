@@ -26,3 +26,18 @@ tytle: Viacheslav Olishevko CV
 
 ***
 
+## Skills:
+
+* HTML, CSS, JS
+* Typescript,
+* Git,
+* Mongo, MSSQL,
+* Docker,
+* Database administration,
+* React
+* Vue
+* Webix
+* .Net, C#
+
+***
+
