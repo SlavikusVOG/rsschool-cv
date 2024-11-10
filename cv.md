@@ -26,7 +26,7 @@ tytle: Viacheslav Olishevko CV
 
 ***
 
-## Skills:
+## Skills and Proficiency:
 
 * HTML, CSS, JS
 * Typescript,
@@ -38,6 +38,21 @@ tytle: Viacheslav Olishevko CV
 * Vue
 * Webix
 * .Net, C#
+
+***
+
+## Code example
+
+    let instance;
+    var Singleton = function(){
+      if (instance) {
+        return instance;
+      }
+      else {
+        instance = this;
+        return this;
+      }
+    };
 
 ***
 
