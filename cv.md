@@ -41,3 +41,9 @@ tytle: Viacheslav Olishevko CV
 
 ***
 
+## Languages:
+
+* English - Intermediate or Upper-intermediate level.
+* Russian - Native
+* Belarusian - Native
+* Japanese - N5
